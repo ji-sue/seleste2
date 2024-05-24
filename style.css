@@ -203,7 +203,7 @@ li.footer-list {
 
 /* hero */
 .hero {
-    background-image: url(assets/Group-1.png);
+    background-image: url(images/Group-1.png);
     background-size: 140%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -306,7 +306,7 @@ button#hero-button:hover {
 }
 
 .back {
-    background-image: url('assets/doctor-arms-crossed.jpg');
+    background-image: url('images/doctor-arms-crossed.jpg');
     color: white;
     background-position: center;
     background-repeat: no-repeat;
@@ -459,7 +459,7 @@ p#touch-p {
 /* consult */
 .consult {
     font-family: "PT Serif", serif;
-    background-image: url('assets/laptop.webp');
+    background-image: url('images/laptop.webp');
     background-size: 140%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -566,7 +566,7 @@ p#touch-p {
 /* testimonial */
 
 .testimonial {
-    background-image: url('assets/test.webp');
+    background-image: url('images/test.webp');
     background-size: 120%;
     background-position: center;
     background-repeat: no-repeat;
@@ -671,7 +671,7 @@ i.fas.fa-calendar.news {
 
 /* appointment */
 .con-appointment {
-    background-image: url('assets/appointment.webp');
+    background-image: url('images/appointment.webp');
     background-size: 100%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -729,7 +729,7 @@ label {
 .contact-banner {
     font-family: "Lato", sans-serif;
 
-    background-image: url('assets/contact.jpg');
+    background-image: url('images/contact.jpg');
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
